@@ -1,17 +1,23 @@
-<p>
-<tr>
-<td>167</td>
-<td>001</td>
-<td><center><div class="mt15 mb15" style="max-width:75px"><div class="relative" style="padding-bottom:92%"><img class="lazy_portada imgabsoluta" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEHAAEALAAAAAABAAEAAAICTAEAOw==" data-src="https://media.vandal.net/m/9-2023/12/2023912161348_1.jpg" data-m1="9-2023/12" data-m2="2023912161348_1" data-m3="2023912161348" data-m4="1"  alt="Spinarak en Pokédex Noroteo" /></div></div>
-<br/><b>Spinarak</b></center></td>
+<p><tr><td>167</td><td>001</td><td><center><div class="mt15 mb15" style="max-width:75px"><div class="relative" style="padding-bottom:92%"><img class="lazy_portada imgabsoluta" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEHAAEALAAAAAABAAEAAAICTAEAOw==" data-src="https://media.vandal.net/m/9-2023/12/2023912161348_1.jpg" data-m1="9-2023/12" data-m2="2023912161348_1" data-m3="2023912161348" data-m4="1"  alt="Spinarak en Pokédex Noroteo" /></div></div>
+<br/><b>Spinarak</b></center></td><td>Bicho y Veneno</td><td>Aparece en: Colina Manzanar, Desfiladero del Cuerno, Centro Cultural de Noroteo, Carretera de Noroteo, Campos Prístinos de Noroteo, Ribera Confluencia, Senda Jarana, Soto Sempiterno.
+<br/>Teraincursiones de 1 estrella</td></tr></p><div class="publi_intext2">PUBLICIDAD<div id="publi_intext1"><script type="application/javascript" async src="https://platform.sunmedia.tv/integrations/7ab359e1-2989-4343-9196-5c7ba50d769e.js"></script></div><div class="cleft"></div></div><!--interparrafo7-->
 
-<td>Bicho y Veneno</td>
-<td>Aparece en: Colina Manzanar, Desfiladero del Cuerno, Centro Cultural de Noroteo, Carretera de Noroteo, Campos Prístinos de Noroteo, Ribera Confluencia, Senda Jarana, Soto Sempiterno.
-<br/>Teraincursiones de 1 estrella
-</td></tr>
-</p>
+<p><tr><td>168</td><td>002</td><td><center><div class="mt15 mb15" style="max-width:75px"><div class="relative" style="padding-bottom:92%"><img class="lazy_portada imgabsoluta" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEHAAEALAAAAAABAAEAAAICTAEAOw==" data-src="https://media.vandal.net/m/9-2023/12/2023912161348_2.jpg" data-m1="9-2023/12" data-m2="2023912161348_2" data-m3="2023912161348" data-m4="2"  alt="Ariados en Pokédex Noroteo" /></div></div>
+<br/><b>Ariados</b></center></td><td>Bicho y Veneno</td><td>Aparece en: Desfiladero del Cuerno, Campos Prístinos de Noroteo, Ribera Confluencia, Soto Sempiterno
+<br/>Teraincursiones de 3 y 4 estrellas
+<br/>Evoluciona de Spinarak al nivel 22</td></tr></p><!--interparrafo8-->
 
-<div class="publi_intext2">PUBLICIDAD<div id="publi_intext1"><script type="application/javascript" async src="https://platform.sunmedia.tv/integrations/7ab359e1-2989-4343-9196-5c7ba50d769e.js"></script></div><div class="cleft"></div></div><!--interparrafo7-->
+<p><tr><td>193</td><td>003</td><td><center><div class="mt15 mb15" style="max-width:75px"><div class="relative" style="padding-bottom:92%"><img class="lazy_portada imgabsoluta" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEHAAEALAAAAAABAAEAAAICTAEAOw==" data-src="https://media.vandal.net/m/9-2023/12/2023912161348_3.jpg" data-m1="9-2023/12" data-m2="2023912161348_3" data-m3="2023912161348" data-m4="3"  alt="Yanma en Pokédex Noroteo" /></div></div>
+<br/><b>Yanma</b></center></td><td>Bicho y Veneno</td><td>Aparece en: Lago Cristalino, Paso del Averno, Carretera de Noroteo, Campos Prístinos de Noroteo, Ribera Confluencia, Monte Ogro, Elíseo Baldío, Soto Sempiterno, Pradera Glicina
+<br/>Teraincursiones de 2 estrellas</td></tr></p><!--interparrafo9-->
+
+<p><tr><td>469</td><td>004</td><td><center><div class="mt15 mb15" style="max-width:75px"><div class="relative" style="padding-bottom:92%"><img class="lazy_portada imgabsoluta" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEHAAEALAAAAAABAAEAAAICTAEAOw==" data-src="https://media.vandal.net/m/9-2023/12/2023912161348_4.jpg" data-m1="9-2023/12" data-m2="2023912161348_4" data-m3="2023912161348" data-m4="4"  alt="Yanmega en Pokédex Noroteo" /></div></div>
+<br/><b>Yanmega</b></center></td><td>Bicho y Volador</td><td>Teraincursiones de 5 y 6 estrellas
+<br/>Evoluciona de Yanma al subir de nivel mientras conoce el movimiento Poder Pasado</td></tr></p><div id="placeholderpubli2movil"></div><!--interparrafo10-->
+
+<p><tr><td>194</td><td>005</td><td><center><div class="mt15 mb15" style="max-width:70px"><div class="relative" style="padding-bottom:100%"><img class="lazy_portada imgabsoluta" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEHAAEALAAAAAABAAEAAAICTAEAOw==" data-src="https://media.vandal.net/m/11-2022/2022111412442721_1.jpg" data-m1="11-2022" data-m2="2022111412442721_1" data-m3="2022111412442721" data-m4="1"  alt="Wooper en Pokédex Noroteo" /></div></div>
+<br/><b>Wooper</b></center></td><td>Agua y Tierra</td><td>Aparece en: Arroyo Helado, Desfiladero del Cuerno, Carretera de Noroteo, Campos Prístinos de Noroteo, Ribera Confluencia, Monte Ogro, Senda Jarana, Soto Sempiterno, Fauces del Ogro
+<br/>Teraincursiones de 1 estrella</td></tr></p><!--interparrafo118-->
 
 <p><tr><td>195</td><td>006</td><td><center><div class="mt15 mb15" style="max-width:75px"><div class="relative" style="padding-bottom:92%"><img class="lazy_portada imgabsoluta" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEHAAEALAAAAAABAAEAAAICTAEAOw==" data-src="https://media.vandal.net/m/9-2023/12/2023912161348_5.jpg" data-m1="9-2023/12" data-m2="2023912161348_5" data-m3="2023912161348" data-m4="5"  alt="Quagsire en Pokédex Noroteo" /></div></div>
 <br/><b>Quagsire</b></center></td><td>Agua y Tierra</td><td>Aparece en: Arroyo Helado, Desfiladero del Cuerno, Campos Prístinos de Noroteo, Ribera Confluencia, Monte Ogro, Soto Sempiterno
