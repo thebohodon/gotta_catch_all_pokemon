@@ -1,28 +1,12 @@
-interface PokemonExcelRowType {
-    idNacional: number;
-    idPokedex: number
-    name: string;
-    imageURL: string;
-    type: string;
-    catchLocation: string;
-    caught?: string;
-}
+import PokemonHtmlModel from './PokemonHtmlModel.js';
 
-export default class PokemonExcelRowModel implements PokemonExcelRowType {
-    private _catchLocation: string;
-    private _caught: string;
-    private _idNacional: number;
-    private _idPokedex: number;
-    private _imageURL: string;
-    private _name: string;
-    private _type: string;
+export default class PokemonExcelRowModel extends PokemonHtmlModel {
+    private _caught!: string;
+    private _image!: string;
 
-    get catchLocation(): string {
-        return this._catchLocation;
-    }
-
-    set catchLocation(value: string) {
-        this._catchLocation = value;
+    constructor(idNacional: string, idPokedex: string, pokeName: string, imageURL: string, type: string, catchLocation: string) {
+        super(idNacional, idPokedex, pokeName, imageURL, type, catchLocation);
+        this.caught = '';
     }
 
     get caught(): string {
@@ -33,44 +17,38 @@ export default class PokemonExcelRowModel implements PokemonExcelRowType {
         this._caught = value;
     }
 
-    get idNacional(): number {
-        return this._idNacional;
+    get image(): string {
+        return this._image;
     }
 
-    set idNacional(value: number) {
-        this._idNacional = value;
+    set image(value: string) {
+        this._image = value;
     }
 
-    get idPokedex(): number {
-        return this._idPokedex;
+    async updateImage(): Promise<void> {
+        const model:PokemonExcelRowModel = this;
+        try {
+            const response = await fetch(this.imageURL);
+            const arrayBuffer = await response.arrayBuffer();
+            model.image = Buffer.from(arrayBuffer).toString('base64');
+        } catch (e: Error | any) {
+            throw new Error(`Error al descargar la imagen: ${e.message}`);
+        }
+
+
     }
 
-    set idPokedex(value: number) {
-        this._idPokedex = value;
-    }
+    getData(): Array<string> {
+        const data: Array<string> = [];
+        data.push(this.idNacional);
+        data.push(this.idPokedex);
+        data.push(this.pokeName);
+        data.push(this.imageURL);
+        data.push(this.type);
+        data.push(this.catchLocation);
+        data.push(this.caught);
 
-    get imageURL(): string {
-        return this._imageURL;
-    }
-
-    set imageURL(value: string) {
-        this._imageURL = value;
-    }
-
-    get name(): string {
-        return this._name;
-    }
-
-    set name(value: string) {
-        this._name = value;
-    }
-
-    get type(): string {
-        return this._type;
-    }
-
-    set type(value: string) {
-        this._type = value;
+        return data;
     }
 
 };

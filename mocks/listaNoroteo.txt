@@ -1,0 +1,452 @@
+<p>
+<tr>
+<td>167</td>
+<td>001</td>
+<td><center><div class="mt15 mb15" style="max-width:75px"><div class="relative" style="padding-bottom:92%"><img class="lazy_portada imgabsoluta" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEHAAEALAAAAAABAAEAAAICTAEAOw==" data-src="https://media.vandal.net/m/9-2023/12/2023912161348_1.jpg" data-m1="9-2023/12" data-m2="2023912161348_1" data-m3="2023912161348" data-m4="1"  alt="Spinarak en Pokédex Noroteo" /></div></div>
+<br/><b>Spinarak</b></center></td>
+
+<td>Bicho y Veneno</td>
+<td>Aparece en: Colina Manzanar, Desfiladero del Cuerno, Centro Cultural de Noroteo, Carretera de Noroteo, Campos Prístinos de Noroteo, Ribera Confluencia, Senda Jarana, Soto Sempiterno.
+<br/>Teraincursiones de 1 estrella
+</td></tr>
+</p>
+
+<div class="publi_intext2">PUBLICIDAD<div id="publi_intext1"><script type="application/javascript" async src="https://platform.sunmedia.tv/integrations/7ab359e1-2989-4343-9196-5c7ba50d769e.js"></script></div><div class="cleft"></div></div><!--interparrafo7-->
+
+<p><tr><td>195</td><td>006</td><td><center><div class="mt15 mb15" style="max-width:75px"><div class="relative" style="padding-bottom:92%"><img class="lazy_portada imgabsoluta" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEHAAEALAAAAAABAAEAAAICTAEAOw==" data-src="https://media.vandal.net/m/9-2023/12/2023912161348_5.jpg" data-m1="9-2023/12" data-m2="2023912161348_5" data-m3="2023912161348" data-m4="5"  alt="Quagsire en Pokédex Noroteo" /></div></div>
+<br/><b>Quagsire</b></center></td><td>Agua y Tierra</td><td>Aparece en: Arroyo Helado, Desfiladero del Cuerno, Campos Prístinos de Noroteo, Ribera Confluencia, Monte Ogro, Soto Sempiterno
+<br/>Teraincursiones de 4 y 6 estrellas
+<br/>Evoluciona de Wooper al nivel 20</td></tr></p><!--interparrafo11-->
+
+
+<p><tr><td>168</td><td>002</td><td><center><div class="mt15 mb15" style="max-width:75px"><div class="relative" style="padding-bottom:92%"><img class="lazy_portada imgabsoluta" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEHAAEALAAAAAABAAEAAAICTAEAOw==" data-src="https://media.vandal.net/m/9-2023/12/2023912161348_2.jpg" data-m1="9-2023/12" data-m2="2023912161348_2" data-m3="2023912161348" data-m4="2"  alt="Ariados en Pokédex Noroteo" /></div></div>
+<br/><b>Ariados</b></center></td><td>Bicho y Veneno</td><td>Aparece en: Desfiladero del Cuerno, Campos Prístinos de Noroteo, Ribera Confluencia, Soto Sempiterno
+<br/>Teraincursiones de 3 y 4 estrellas
+<br/>Evoluciona de Spinarak al nivel 22</td></tr></p><!--interparrafo8-->
+
+<p><tr><td>193</td><td>003</td><td><center><div class="mt15 mb15" style="max-width:75px"><div class="relative" style="padding-bottom:92%"><img class="lazy_portada imgabsoluta" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEHAAEALAAAAAABAAEAAAICTAEAOw==" data-src="https://media.vandal.net/m/9-2023/12/2023912161348_3.jpg" data-m1="9-2023/12" data-m2="2023912161348_3" data-m3="2023912161348" data-m4="3"  alt="Yanma en Pokédex Noroteo" /></div></div>
+<br/><b>Yanma</b></center></td><td>Bicho y Veneno</td><td>Aparece en: Lago Cristalino, Paso del Averno, Carretera de Noroteo, Campos Prístinos de Noroteo, Ribera Confluencia, Monte Ogro, Elíseo Baldío, Soto Sempiterno, Pradera Glicina
+<br/>Teraincursiones de 2 estrellas</td></tr></p><!--interparrafo9-->
+
+<p><tr><td>469</td><td>004</td><td><center><div class="mt15 mb15" style="max-width:75px"><div class="relative" style="padding-bottom:92%"><img class="lazy_portada imgabsoluta" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEHAAEALAAAAAABAAEAAAICTAEAOw==" data-src="https://media.vandal.net/m/9-2023/12/2023912161348_4.jpg" data-m1="9-2023/12" data-m2="2023912161348_4" data-m3="2023912161348" data-m4="4"  alt="Yanmega en Pokédex Noroteo" /></div></div>
+<br/><b>Yanmega</b></center></td><td>Bicho y Volador</td><td>Teraincursiones de 5 y 6 estrellas
+<br/>Evoluciona de Yanma al subir de nivel mientras conoce el movimiento Poder Pasado</td></tr></p><div id="placeholderpubli2movil"></div><!--interparrafo10-->
+
+<p><tr><td>195</td><td>006</td><td><center><div class="mt15 mb15" style="max-width:75px"><div class="relative" style="padding-bottom:92%"><img class="lazy_portada imgabsoluta" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEHAAEALAAAAAABAAEAAAICTAEAOw==" data-src="https://media.vandal.net/m/9-2023/12/2023912161348_5.jpg" data-m1="9-2023/12" data-m2="2023912161348_5" data-m3="2023912161348" data-m4="5"  alt="Quagsire en Pokédex Noroteo" /></div></div>
+<br/><b>Quagsire</b></center></td><td>Agua y Tierra</td><td>Aparece en: Arroyo Helado, Desfiladero del Cuerno, Campos Prístinos de Noroteo, Ribera Confluencia, Monte Ogro, Soto Sempiterno
+<br/>Teraincursiones de 4 y 6 estrellas
+<br/>Evoluciona de Wooper al nivel 20</td></tr></p><!--interparrafo11-->
+
+<p><tr><td>261</td><td>007</td><td><center><div class="mt15 mb15" style="max-width:75px"><div class="relative" style="padding-bottom:92%"><img class="lazy_portada imgabsoluta" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEHAAEALAAAAAABAAEAAAICTAEAOw==" data-src="https://media.vandal.net/m/9-2023/12/2023912161348_6.jpg" data-m1="9-2023/12" data-m2="2023912161348_6" data-m3="2023912161348" data-m4="6"  alt="Poochyena en Pokédex Noroteo" /></div></div>
+<br/><b>Poochyena</b></center></td><td>Siniestro</td><td>Aparece en: Colina Manzanar, Carretera de Noroteo, Campos Prístinos de Noroteo, Monte Ogro, Elíseo Baldío, Soto Sempiterno
+<br/>Teraincursiones de 1 estrella</td></tr></p><!--interparrafo12-->
+
+<p><tr><td>262</td><td>008</td><td><center><div class="mt15 mb15" style="max-width:75px"><div class="relative" style="padding-bottom:93.33%"><img class="lazy_portada imgabsoluta" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEHAAEALAAAAAABAAEAAAICTAEAOw==" data-src="https://media.vandal.net/m/9-2023/12/2023912161348_7.jpg" data-m1="9-2023/12" data-m2="2023912161348_7" data-m3="2023912161348" data-m4="7"  alt="Mightyena en Pokédex Noroteo" /></div></div>
+<br/><b>Mightyena</b></center></td><td>Siniestro</td><td>Aparece en: Campos Prístinos de Noroteo, Monte Ogro, Elíseo Baldío, Soto Sempiterno, Pradera Glicina
+<br/>Teraincursiones de 4 estrellas
+<br/>Evoluciona de Poochyena al nivel 18</td></tr></p><!--publi2extra--><!--interparrafo13-->
+
+<p><tr><td>313</td><td>009</td><td><center><div class="mt15 mb15" style="max-width:75px"><div class="relative" style="padding-bottom:92%"><img class="lazy_portada imgabsoluta" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEHAAEALAAAAAABAAEAAAICTAEAOw==" data-src="https://media.vandal.net/m/9-2023/12/2023912161348_8.jpg" data-m1="9-2023/12" data-m2="2023912161348_8" data-m3="2023912161348" data-m4="8"  alt="Volbeat en Pokédex Noroteo" /></div></div>
+<br/><b>Volbeat</b></center></td><td>Bicho</td><td>Aparece en: Colina Manzanar, Desfiladero del Cuerno, Carretera de Noroteo, Campos Prístinos de Noroteo, Ribera Confluencia, Senda Jarana, Soto Sempiterno, Pradera Glicina
+<br/>Teraincursiones de 2 y 4 estrellas</td></tr></p><!--interparrafo14-->
+
+<p><tr><td>314</td><td>010</td><td><center><div class="mt15 mb15" style="max-width:75px"><div class="relative" style="padding-bottom:92%"><img class="lazy_portada imgabsoluta" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEHAAEALAAAAAABAAEAAAICTAEAOw==" data-src="https://media.vandal.net/m/9-2023/12/2023912161348_9.jpg" data-m1="9-2023/12" data-m2="2023912161348_9" data-m3="2023912161348" data-m4="9"  alt="Illumise en Pokédex Noroteo" /></div></div>
+<br/><b>Illumise</b></center></td><td>Bicho</td><td>Aparece en: Colina Manzanar, Desfiladero del Cuerno, Carretera de Noroteo, Campos Prístinos de Noroteo, Ribera Confluencia, Senda Jarana, Soto Sempiterno, Pradera Glicina
+<br/>Teraincursiones de 2 y 4 estrellas</td></tr></p><!--interparrafo15-->
+
+<p><tr><td>341</td><td>011</td><td><center><div class="mt15 mb15" style="max-width:75px"><div class="relative" style="padding-bottom:92%"><img class="lazy_portada imgabsoluta" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEHAAEALAAAAAABAAEAAAICTAEAOw==" data-src="https://media.vandal.net/m/9-2023/12/2023912161348_10.jpg" data-m1="9-2023/12" data-m2="2023912161348_10" data-m3="2023912161348" data-m4="10"  alt="Corphish en Pokédex Noroteo" /></div></div>
+<br/><b>Corphish</b></center></td><td>Agua</td><td>Aparece en: Desfiladero del Cuerno, Carretera de Noroteo, Ribera Confluencia, Senda Jarana
+<br/>Teraincursiones de 2 estrellas</td></tr></p><div class="outbrain_wrapper"><div class="outbrain_wrapper2"><div class="OUTBRAIN" data-src="https://vandal.elespanol.com/guias/guia-pokemon-escarlata-y-purpura-trucos-consejos-y-secretos/pokedex-de-noroteo" data-widget-id="AR_5"></div></div></div><script type="text/javascript">eventosScrollLoad.push(function() {cargarscript("https://widgets.outbrain.com/outbrain.js");});</script><!--interparrafo16-->
+
+<p><tr><td>342</td><td>012</td><td><center><div class="mt15 mb15" style="max-width:75px"><div class="relative" style="padding-bottom:92%"><img class="lazy_portada imgabsoluta" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEHAAEALAAAAAABAAEAAAICTAEAOw==" data-src="https://media.vandal.net/m/9-2023/12/2023912161348_11.jpg" data-m1="9-2023/12" data-m2="2023912161348_11" data-m3="2023912161348" data-m4="11"  alt="Crawdaunt en Pokédex Noroteo" /></div></div>
+<br/><b>Crawdaunt</b></center></td><td>Agua y Siniestro</td><td>Aparece en: Desfiladero del Cuerno
+<br/>Teraincursiones de 4 y 6 estrellas
+<br/>Evoluciona de Corphish al nivel 30</td></tr></p><!--interparrafo17-->
+
+<p><tr><td>540</td><td>013</td><td><center><div class="mt15 mb15" style="max-width:75px"><div class="relative" style="padding-bottom:92%"><img class="lazy_portada imgabsoluta" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEHAAEALAAAAAABAAEAAAICTAEAOw==" data-src="https://media.vandal.net/m/9-2023/12/2023912161348_12.jpg" data-m1="9-2023/12" data-m2="2023912161348_12" data-m3="2023912161348" data-m4="12"  alt="Sewaddle en Pokédex Noroteo" /></div></div>
+<br/><b>Sewaddle</b></center></td><td>Bicho y Planta</td><td>Aparece en: Colina Manzanar, Carretera de Noroteo, Ribera Confluencia, Pradera Glicina
+<br/>Teraincursiones de 1 estrella</td></tr></p><!--interparrafo18-->
+
+<p><tr><td>541</td><td>014</td><td><center><div class="mt15 mb15" style="max-width:75px"><div class="relative" style="padding-bottom:92%"><img class="lazy_portada imgabsoluta" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEHAAEALAAAAAABAAEAAAICTAEAOw==" data-src="https://media.vandal.net/m/9-2023/12/2023912161348_13.jpg" data-m1="9-2023/12" data-m2="2023912161348_13" data-m3="2023912161348" data-m4="13"  alt="Swadloon en Pokédex Noroteo" /></div></div>
+<br/><b>Swadloon</b></center></td><td>Bicho y Planta</td><td>Aparece en: Ribera Confluencia, Pradera Glicina
+<br/>Teraincursiones de 3 estrellas
+<br/>Evoluciona de Sewaddle al nivel 20</td></tr></p><div id="placeholderpubli3movil"></div><!--interparrafo19-->
+
+<p><tr><td>542</td><td>015</td><td><center><div class="mt15 mb15" style="max-width:75px"><div class="relative" style="padding-bottom:92%"><img class="lazy_portada imgabsoluta" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEHAAEALAAAAAABAAEAAAICTAEAOw==" data-src="https://media.vandal.net/m/9-2023/12/2023912161348_14.jpg" data-m1="9-2023/12" data-m2="2023912161348_14" data-m3="2023912161348" data-m4="14"  alt="Leavanny en Pokédex Noroteo" /></div></div>
+<br/><b>Leavanny</b></center></td><td>Bicho y Planta</td><td>Aparece en: Ribera Confluencia, Pradera Glicina
+<br/>Teraincursiones de 4 y 6 estrellas
+<br/>Evoluciona de Swadloon con amistad elevada</td></tr></p><!--interparrafo20-->
+
+<p><tr><td>742</td><td>016</td><td><center><div class="mt15 mb15" style="max-width:75px"><div class="relative" style="padding-bottom:92%"><img class="lazy_portada imgabsoluta" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEHAAEALAAAAAABAAEAAAICTAEAOw==" data-src="https://media.vandal.net/m/9-2023/12/2023912161348_15.jpg" data-m1="9-2023/12" data-m2="2023912161348_15" data-m3="2023912161348" data-m4="15"  alt="Cutiefly en Pokédex Noroteo" /></div></div>
+<br/><b>Cutiefly</b></center></td><td>Bicho y Hada</td><td>Aparece en: Carretera de Noroteo, Ribera Confluencia, Elíseo Baldío, Pradera Glicina
+<br/>Teraincursiones de 1 estrella</td></tr></p><!--interparrafo21-->
+
+<p><tr><td>743</td><td>017</td><td><center><div class="mt15 mb15" style="max-width:75px"><div class="relative" style="padding-bottom:92%"><img class="lazy_portada imgabsoluta" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEHAAEALAAAAAABAAEAAAICTAEAOw==" data-src="https://media.vandal.net/m/9-2023/12/2023912161348_16.jpg" data-m1="9-2023/12" data-m2="2023912161348_16" data-m3="2023912161348" data-m4="16"  alt="Ribombee en Pokédex Noroteo" /></div></div>
+<br/><b>Ribombee</b></center></td><td>Bicho y Hada</td><td>Aparece en: Ribera Confluencia
+<br/>Teraincursiones de 4 estrellas
+<br/>Evoluciona de Cutiefly al nivel 25</td></tr></p><!--publi3extra--><!--interparrafo22-->
+
+<p><tr><td>023</td><td>018</td><td><center><div class="mt15 mb15" style="max-width:75px"><div class="relative" style="padding-bottom:100%"><img class="lazy_portada imgabsoluta" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEHAAEALAAAAAABAAEAAAICTAEAOw==" data-src="https://media.vandal.net/m/9-2023/12/202391215564668_1.jpg" data-m1="9-2023/12" data-m2="202391215564668_1" data-m3="202391215564668" data-m4="1"  alt="Ekans en Pokédex Noroteo" /></div></div>
+<br/><b>Ekans</b></center></td><td>Veneno</td><td>Aparece en: Colina Manzanar, Lago Cristalino, Desfiladero del Cuerno, Carretera de Noroteo, Ribera Confluencia, Monte Ogro, Senda Jarana, Pradera Glicina
+<br/>Teraincursiones de 1 y 3 estrellas</td></tr></p><!--interparrafo23-->
+
+<p><tr><td>024</td><td>019</td><td><center><div class="mt15 mb15" style="max-width:75px"><div class="relative" style="padding-bottom:100%"><img class="lazy_portada imgabsoluta" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEHAAEALAAAAAABAAEAAAICTAEAOw==" data-src="https://media.vandal.net/m/9-2023/12/202391215564668_2.jpg" data-m1="9-2023/12" data-m2="202391215564668_2" data-m3="202391215564668" data-m4="2"  alt="Arbok en Pokédex Noroteo" /></div></div>
+<br/><b>Arbok</b></center></td><td>Veneno</td><td>Aparece en: Desfiladero del Cuerno, Ribera Confluencia
+<br/>Evoluciona de Ekans al nivel 22</td></tr></p><!--interparrafo24-->
+
+<p><tr><td>069</td><td>023</td><td><center><div class="mt15 mb15" style="max-width:75px"><div class="relative" style="padding-bottom:92%"><img class="lazy_portada imgabsoluta" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEHAAEALAAAAAABAAEAAAICTAEAOw==" data-src="https://media.vandal.net/m/9-2023/12/20239121662225_1.jpg" data-m1="9-2023/12" data-m2="20239121662225_1" data-m3="20239121662225" data-m4="1"  alt="Bellsprout en Pokédex Noroteo" /></div></div>
+<br/><b>Bellsprout</b></center></td><td>Planta y Veneno</td><td>Aparece en: Colina Manzanar, Carretera de Noroteo, Ribera Confluencia
+<br/>Teraincursiones de 2 estrellas</td></tr></p><div id="placeholderpubli4movil"></div><!--interparrafo25-->
+
+<p><tr><td>070</td><td>024</td><td><center><div class="mt15 mb15" style="max-width:75px"><div class="relative" style="padding-bottom:92%"><img class="lazy_portada imgabsoluta" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEHAAEALAAAAAABAAEAAAICTAEAOw==" data-src="https://media.vandal.net/m/9-2023/12/20239121662225_2.jpg" data-m1="9-2023/12" data-m2="20239121662225_2" data-m3="20239121662225" data-m4="2"  alt="Weepinbell en Pokédex Noroteo" /></div></div>
+<br/><b>Weepinbell</b></center></td><td>Planta y Veneno</td><td>Aparece en: Ribera Confluencia
+<br/>Teraincursiones de 3 estrellas
+<br/>Evoluciona de Bellsprout al nivel 21</td></tr></p><!--interparrafo26-->
+
+<p><tr><td>071</td><td>025</td><td><center><div class="mt15 mb15" style="max-width:75px"><div class="relative" style="padding-bottom:92%"><img class="lazy_portada imgabsoluta" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEHAAEALAAAAAABAAEAAAICTAEAOw==" data-src="https://media.vandal.net/m/9-2023/12/20239121662225_3.jpg" data-m1="9-2023/12" data-m2="20239121662225_3" data-m3="20239121662225" data-m4="3"  alt="Victreebel en Pokédex Noroteo" /></div></div>
+<br/><b>Victreebel</b></center></td><td>Planta y Veneno</td><td>Teraincursiones de 5 estrellas
+<br/>Evoluciona de Weepinbell con Piedra Hoja</td></tr></p><!--interparrafo27-->
+
+<p><tr><td>161</td><td>026</td><td><center><div class="mt15 mb15" style="max-width:75px"><div class="relative" style="padding-bottom:92%"><img class="lazy_portada imgabsoluta" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEHAAEALAAAAAABAAEAAAICTAEAOw==" data-src="https://media.vandal.net/m/9-2023/12/20239121662225_4.jpg" data-m1="9-2023/12" data-m2="20239121662225_4" data-m3="20239121662225" data-m4="4"  alt="Sentret en Pokédex Noroteo" /></div></div>
+<br/><b>Sentret</b></center></td><td>Normal</td><td>Aparece en: Colina Manzanar, Centro Cultural de Noroteo, Carretera de Noroteo, Ribera Confluencia, Senda Jarana
+<br/>Teraincursiones de 1 estrella</td></tr></p><!--publi4extra--><!--interparrafo28-->
+
+<p><tr><td>162</td><td>027</td><td><center><div class="mt15 mb15" style="max-width:75px"><div class="relative" style="padding-bottom:92%"><img class="lazy_portada imgabsoluta" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEHAAEALAAAAAABAAEAAAICTAEAOw==" data-src="https://media.vandal.net/m/9-2023/12/20239121662225_5.jpg" data-m1="9-2023/12" data-m2="20239121662225_5" data-m3="20239121662225" data-m4="5"  alt="Furret en Pokédex Noroteo" /></div></div>
+<br/><b>Furret</b></center></td><td>Normal</td><td>Aparece en: Colina Manzanar, Centro Cultural de Noroteo, Carretera de Noroteo, Ribera Confluencia, Senda Jarana
+<br/>Teraincursiones de 3 y 4 estrellas
+<br/>Evoluciona de Sentret al nivel 15</td></tr></p><!--interparrafo29-->
+
+<p><tr><td>1011</td><td>036</td><td><center><div class="mt15 mb15" style="max-width:75px"><div class="relative" style="padding-bottom:89.33%"><img class="lazy_portada imgabsoluta" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEHAAEALAAAAAABAAEAAAICTAEAOw==" data-src="https://media.vandal.net/m/9-2023/12/20239121662225_6.jpg" data-m1="9-2023/12" data-m2="20239121662225_6" data-m3="20239121662225" data-m4="6"  alt="Dipplin en Pokédex Noroteo" /></div></div>
+<br/><b>Dipplin</b></center></td><td>Planta y Dragón</td><td><a href="https://vandal.elespanol.com/guias/guia-pokemon-escarlata-y-purpura-trucos-consejos-y-secretos/applin-en-dipplin" target="_blank">Evoluciona de Applin</a> al entregarle una <a href="https://vandal.elespanol.com/guias/guia-pokemon-escarlata-y-purpura-trucos-consejos-y-secretos/objetos-de-evolucion#manzana-melosa" target="_blank">Manzana Melosa</a></td></tr></p><!--interparrafo30-->
+
+<p><tr><td>037</td><td>037</td><td><center><div class="mt15 mb15" style="max-width:75px"><div class="relative" style="padding-bottom:92%"><img class="lazy_portada imgabsoluta" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEHAAEALAAAAAABAAEAAAICTAEAOw==" data-src="https://media.vandal.net/m/9-2023/12/20239121662225_7.jpg" data-m1="9-2023/12" data-m2="20239121662225_7" data-m3="20239121662225" data-m4="7"  alt="Vulpix en Pokédex Noroteo" /></div></div>
+<br/><b>Vulpix</b></center></td><td>Fuego</td><td>Aparece en: Arroyo Helado, Lago Cristalino, Desfiladero del Cuerno, Paso del Averno, Centro Cultural de Noroteo, Campos Prístinos de Noroteo, Ribera Confluencia, Monte Ogro, Fauces del Ogro, Elíseo Baldío, Senda Jarana, Soto Sempiterno, Pradera Glicina
+<br/>Teraincursiones de 2 estrellas</td></tr></p><!--interparrafo31-->
+
+<p><tr><td>038</td><td>038</td><td><center><div class="mt15 mb15" style="max-width:75px"><div class="relative" style="padding-bottom:92%"><img class="lazy_portada imgabsoluta" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEHAAEALAAAAAABAAEAAAICTAEAOw==" data-src="https://media.vandal.net/m/9-2023/12/20239121662225_8.jpg" data-m1="9-2023/12" data-m2="20239121662225_8" data-m3="20239121662225" data-m4="8"  alt="Ninetales en Pokédex Noroteo" /></div></div>
+<br/><b>Ninetales</b></center></td><td>Fuego</td><td>Teraincursiones de 5 y 6 estrellas
+<br/>Evoluciona de Vulpix con Piedra Fuego</td></tr></p><!--interparrafo32-->
+
+<p><tr><td>060</td><td>039</td><td><center><div class="mt15 mb15" style="max-width:75px"><div class="relative" style="padding-bottom:92%"><img class="lazy_portada imgabsoluta" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEHAAEALAAAAAABAAEAAAICTAEAOw==" data-src="https://media.vandal.net/m/9-2023/12/20239121662225_9.jpg" data-m1="9-2023/12" data-m2="20239121662225_9" data-m3="20239121662225" data-m4="9"  alt="Poliwag en Pokédex Noroteo" /></div></div>
+<br/><b>Poliwag</b></center></td><td>Agua</td><td>Aparece en: Desfiladero del Cuerno, Carretera de Noroteo, Ribera Confluencia, Senda Jarana
+<br/>Teraincursiones de 1 estrella</td></tr></p><!--interparrafo33-->
+
+<p><tr><td>061</td><td>040</td><td><center><div class="mt15 mb15" style="max-width:75px"><div class="relative" style="padding-bottom:92%"><img class="lazy_portada imgabsoluta" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEHAAEALAAAAAABAAEAAAICTAEAOw==" data-src="https://media.vandal.net/m/9-2023/12/20239121662225_10.jpg" data-m1="9-2023/12" data-m2="20239121662225_10" data-m3="20239121662225" data-m4="10"  alt="Poliwhirl en Pokédex Noroteo" /></div></div>
+<br/><b>Poliwhirl</b></center></td><td>Agua</td><td>Aparece en: Desfiladero del Cuerno, Ribera Confluencia
+<br/>Teraincursiones de 3 estrellas
+<br/>Evoluciona de Poliwag al nivel 25</td></tr></p><!--interparrafo34-->
+
+<p><tr><td>062</td><td>041</td><td><center><div class="mt15 mb15" style="max-width:75px"><div class="relative" style="padding-bottom:92%"><img class="lazy_portada imgabsoluta" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEHAAEALAAAAAABAAEAAAICTAEAOw==" data-src="https://media.vandal.net/m/9-2023/12/20239121662225_11.jpg" data-m1="9-2023/12" data-m2="20239121662225_11" data-m3="20239121662225" data-m4="11"  alt="Poliwrath en Pokédex Noroteo" /></div></div>
+<br/><b>Poliwrath</b></center></td><td>Agua y Lucha</td><td>Teraincursiones de 5 y 6 estrellas
+<br/>Evoluciona de Poliwhirl con Piedra Agua</td></tr></p><!--interparrafo35-->
+
+<p><tr><td>186</td><td>042</td><td><center><div class="mt15 mb15" style="max-width:75px"><div class="relative" style="padding-bottom:92%"><img class="lazy_portada imgabsoluta" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEHAAEALAAAAAABAAEAAAICTAEAOw==" data-src="https://media.vandal.net/m/9-2023/12/20239121662225_12.jpg" data-m1="9-2023/12" data-m2="20239121662225_12" data-m3="20239121662225" data-m4="12"  alt="Politoed en Pokédex Noroteo" /></div></div>
+<br/><b>Politoed</b></center></td><td>Agua</td><td>Teraincursiones de 5 y 6 estrellas
+<br/>Evoluciona de Poliwhirl mediante intercambio con Roca del Rey equipada</td></tr></p><!--interparrafo36-->
+
+<p><tr><td>163</td><td>045</td><td><center><div class="mt15 mb15" style="max-width:75px"><div class="relative" style="padding-bottom:92%"><img class="lazy_portada imgabsoluta" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEHAAEALAAAAAABAAEAAAICTAEAOw==" data-src="https://media.vandal.net/m/9-2023/12/20239121662225_13.jpg" data-m1="9-2023/12" data-m2="20239121662225_13" data-m3="20239121662225" data-m4="13"  alt="Hoothoot en Pokédex Noroteo" /></div></div>
+<br/><b>Hoothoot</b></center></td><td>Normal y Volador</td><td>Aparece en: Desfiladero del Cuerno, Centro Cultural de Noroteo, Campos Prístinos de Noroteo, Ribera Confluencia, Monte Ogro, Elíseo Baldío, Senda Jarana, Soto Sempiterno, Pradera Glicina
+<br/>Teraincursiones de 1 estrella</td></tr></p><!--interparrafo37-->
+
+<p><tr><td>164</td><td>046</td><td><center><div class="mt15 mb15" style="max-width:75px"><div class="relative" style="padding-bottom:92%"><img class="lazy_portada imgabsoluta" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEHAAEALAAAAAABAAEAAAICTAEAOw==" data-src="https://media.vandal.net/m/9-2023/12/20239121662225_14.jpg" data-m1="9-2023/12" data-m2="20239121662225_14" data-m3="20239121662225" data-m4="14"  alt="Noctowl en Pokédex Noroteo" /></div></div>
+<br/><b>Noctowl</b></center></td><td>Normal y Volador</td><td>Aparece en: Desfiladero del Cuerno, Campos Prístinos de Noroteo, Ribera Confluencia, Monte Ogro, Elíseo Baldío, Soto Sempiterno, Pradera Glicina
+<br/>Teraincursiones de 3 y 4 estrellas
+<br/>Evoluciona de Hoothoot al nivel 20</td></tr></p><!--interparrafo38-->
+
+<p><tr><td>220</td><td>050</td><td><center><div class="mt15 mb15" style="max-width:75px"><div class="relative" style="padding-bottom:92%"><img class="lazy_portada imgabsoluta" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEHAAEALAAAAAABAAEAAAICTAEAOw==" data-src="https://media.vandal.net/m/9-2023/12/20239121662225_17.jpg" data-m1="9-2023/12" data-m2="20239121662225_17" data-m3="20239121662225" data-m4="17"  alt="Swinub en Pokédex Noroteo" /></div></div>
+<br/><b>Swinub</b></center></td><td>Hielo y Tierra</td><td>Aparece en: Arroyo Helado, Centro Cultural de Noroteo, Ribera Confluencia, Monte Ogro, Fauces del Ogro, Senda Jarana
+<br/>Teraincursiones de 2 estrellas</td></tr></p><!--interparrafo39-->
+
+<p><tr><td>221</td><td>051</td><td><center><div class="mt15 mb15" style="max-width:75px"><div class="relative" style="padding-bottom:92%"><img class="lazy_portada imgabsoluta" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEHAAEALAAAAAABAAEAAAICTAEAOw==" data-src="https://media.vandal.net/m/9-2023/12/20239121662225_18.jpg" data-m1="9-2023/12" data-m2="20239121662225_18" data-m3="20239121662225" data-m4="18"  alt="Piloswine en Pokédex Noroteo" /></div></div>
+<br/><b>Piloswine</b></center></td><td>Hielo y Tierra</td><td>Aparece en: Arroyo Helado
+<br/>Teraincursiones de 4 estrellas
+<br/>Evoluciona de Swinub al nivel 33</td></tr></p><!--interparrafo40-->
+
+<p><tr><td>473</td><td>052</td><td><center><div class="mt15 mb15" style="max-width:75px"><div class="relative" style="padding-bottom:92%"><img class="lazy_portada imgabsoluta" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEHAAEALAAAAAABAAEAAAICTAEAOw==" data-src="https://media.vandal.net/m/9-2023/12/20239121662225_19.jpg" data-m1="9-2023/12" data-m2="20239121662225_19" data-m3="20239121662225" data-m4="19"  alt="Mamoswine en Pokédex Noroteo" /></div></div>
+<br/><b>Mamoswine</b></center></td><td>Hielo y Tierra</td><td>Teraincursiones de 5 y 6 estrellas
+<br/>Evoluciona de Piloswine al subir de nivel mientras conoce el movimiento Poder Pasado</td></tr></p><!--interparrafo41-->
+
+<p><tr><td>273</td><td>054</td><td><center><div class="mt15 mb15" style="max-width:75px"><div class="relative" style="padding-bottom:92%"><img class="lazy_portada imgabsoluta" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEHAAEALAAAAAABAAEAAAICTAEAOw==" data-src="https://media.vandal.net/m/9-2023/12/202391216115942_1.jpg" data-m1="9-2023/12" data-m2="202391216115942_1" data-m3="202391216115942" data-m4="1"  alt="Seedot en Pokédex Noroteo" /></div></div>
+<br/><b>Seedot</b></center></td><td>Planta</td><td>Aparece en: Desfiladero del Cuerno, Centro Cultural de Noroteo, Campos Prístinos de Noroteo, Ribera Confluencia, Monte Ogro, Elíseo Baldío, Senda Jarana, Soto Sempiterno
+<br/>Teraincursiones de 2 estrellas</td></tr></p><!--interparrafo42-->
+
+<p><tr><td>274</td><td>055</td><td><center><div class="mt15 mb15" style="max-width:75px"><div class="relative" style="padding-bottom:92%"><img class="lazy_portada imgabsoluta" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEHAAEALAAAAAABAAEAAAICTAEAOw==" data-src="https://media.vandal.net/m/9-2023/12/202391216115942_2.jpg" data-m1="9-2023/12" data-m2="202391216115942_2" data-m3="202391216115942" data-m4="2"  alt="Nuzleaf en Pokédex Noroteo" /></div></div>
+<br/><b>Nuzleaf</b></center></td><td>Planta y Siniestro</td><td>Aparece en: Desfiladero del Cuerno, Campos Prístinos de Noroteo, Ribera Confluencia, Monte Ogro, Elíseo Baldío, Senda Jarana, Soto Sempiterno
+<br/>Teraincursiones de 3 estrellas
+<br/>Evoluciona de Seedot al nivel 14</td></tr></p><!--interparrafo43-->
+
+<p><tr><td>275</td><td>056</td><td><center><div class="mt15 mb15" style="max-width:75px"><div class="relative" style="padding-bottom:92%"><img class="lazy_portada imgabsoluta" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEHAAEALAAAAAABAAEAAAICTAEAOw==" data-src="https://media.vandal.net/m/9-2023/12/202391216115942_3.jpg" data-m1="9-2023/12" data-m2="202391216115942_3" data-m3="202391216115942" data-m4="3"  alt="Shiftry en Pokédex Noroteo" /></div></div>
+<br/><b>Shiftry</b></center></td><td>Planta y Siniestro</td><td>Teraincursiones de 5 y 6 estrellas
+<br/>Evoluciona de Nuzleaf con Piedra Hoja</td></tr></p><!--interparrafo44-->
+
+<p><tr><td>708</td><td>068</td><td><center><div class="mt15 mb15" style="max-width:75px"><div class="relative" style="padding-bottom:92%"><img class="lazy_portada imgabsoluta" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEHAAEALAAAAAABAAEAAAICTAEAOw==" data-src="https://media.vandal.net/m/9-2023/12/202391216115942_4.jpg" data-m1="9-2023/12" data-m2="202391216115942_4" data-m3="202391216115942" data-m4="4"  alt="Phantump en Pokédex Noroteo" /></div></div>
+<br/><b>Phantump</b></center></td><td>Fantasma y Planta</td><td>Aparece en: Campos Prístinos de Noroteo, Senda Jarana, Soto Sempiterno
+<br/>Teraincursiones de 3 estrellas</td></tr></p><!--interparrafo45-->
+
+<p><tr><td>709</td><td>069</td><td><center><div class="mt15 mb15" style="max-width:75px"><div class="relative" style="padding-bottom:92%"><img class="lazy_portada imgabsoluta" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEHAAEALAAAAAABAAEAAAICTAEAOw==" data-src="https://media.vandal.net/m/9-2023/12/202391216115942_5.jpg" data-m1="9-2023/12" data-m2="202391216115942_5" data-m3="202391216115942" data-m4="5"  alt="Trevenant en Pokédex Noroteo" /></div></div>
+<br/><b>Trevenant</b></center></td><td>Fantasma y Planta</td><td>Aparece en: Campos Prístinos de Noroteo, Soto Sempiterno, Lago Cristalino
+<br/>Teraincursiones de 5 y 6 estrellas
+<br/>Evoluciona de Phantump mediante intercambio</td></tr></p><!--interparrafo46-->
+
+<p><tr><td>1012</td><td>076</td><td><center><div class="mt15 mb15" style="max-width:75px"><div class="relative" style="padding-bottom:69.33%"><img class="lazy_portada imgabsoluta" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEHAAEALAAAAAABAAEAAAICTAEAOw==" data-src="https://media.vandal.net/m/9-2023/12/202391216115942_6.jpg" data-m1="9-2023/12" data-m2="202391216115942_6" data-m3="202391216115942" data-m4="6"  alt="Poltchageist Forma Fraudulenta en Pokédex Noroteo" /></div></div>
+<br/><b><a href="https://vandal.elespanol.com/guias/guia-pokemon-escarlata-y-purpura-trucos-consejos-y-secretos/poltchageist-en-sinistcha" target="_blank">Poltchageist (Forma Fraudulenta)</a></b></center></td><td>Planta y Fantasma</td><td>Aparece en: Ribera Confluencia, Senda Jarana, Monte Ogro, Colina Manzanar
+<br/>Teraincursiones de 3 estrellas</td></tr></p><!--interparrafo47-->
+
+<p><tr><td>1012</td><td>076</td><td><center><div class="mt15 mb15" style="max-width:75px"><div class="relative" style="padding-bottom:69.33%"><img class="lazy_portada imgabsoluta" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEHAAEALAAAAAABAAEAAAICTAEAOw==" data-src="https://media.vandal.net/m/9-2023/12/202391216115942_6.jpg" data-m1="9-2023/12" data-m2="202391216115942_6" data-m3="202391216115942" data-m4="6"  alt="Poltchageist Forma Opulenta en Pokédex Noroteo" /></div></div>
+<br/><b><a href="https://vandal.elespanol.com/guias/guia-pokemon-escarlata-y-purpura-trucos-consejos-y-secretos/poltchageist-en-sinistcha" target="_blank">Poltchageist (Forma Opulenta)</a></b></center></td><td>Planta y Fantasma</td><td>Aparece en: Ribera Confluencia, Senda Jarana, Monte Ogro, Colina Manzanar
+<br/>Teraincursiones de 3 estrellas</td></tr></p><!--interparrafo48-->
+
+<p><tr><td>1013</td><td>077</td><td><center><div class="mt15 mb15" style="max-width:75px"><div class="relative" style="padding-bottom:85.33%"><img class="lazy_portada imgabsoluta" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEHAAEALAAAAAABAAEAAAICTAEAOw==" data-src="https://media.vandal.net/m/9-2023/12/202391216115942_7.jpg" data-m1="9-2023/12" data-m2="202391216115942_7" data-m3="202391216115942" data-m4="7"  alt="Sinistcha Forma Mediocre en Pokédex Noroteo" /></div></div>
+<br/><b><a href="https://vandal.elespanol.com/guias/guia-pokemon-escarlata-y-purpura-trucos-consejos-y-secretos/poltchageist-en-sinistcha" target="_blank">Sinistcha (Forma Mediocre)</a></b></center></td><td>Planta y Fantasma</td><td>Evoluciona de Poltchageist Forma Fraudulenta con un <a href="https://vandal.elespanol.com/guias/guia-pokemon-escarlata-y-purpura-trucos-consejos-y-secretos/objetos-de-evolucion#cuenco-mediocre" target="_blank">Cuenco Mediocre</a>
+<br/>Teraincursiones de 5 y 6 estrellas</td></tr></p><!--interparrafo49-->
+
+<p><tr><td>1013</td><td>077</td><td><center><div class="mt15 mb15" style="max-width:75px"><div class="relative" style="padding-bottom:85.33%"><img class="lazy_portada imgabsoluta" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEHAAEALAAAAAABAAEAAAICTAEAOw==" data-src="https://media.vandal.net/m/9-2023/12/202391216115942_7.jpg" data-m1="9-2023/12" data-m2="202391216115942_7" data-m3="202391216115942" data-m4="7"  alt="Sinistcha Forma Exquisita en Pokédex Noroteo" /></div></div>
+<br/><b><a href="https://vandal.elespanol.com/guias/guia-pokemon-escarlata-y-purpura-trucos-consejos-y-secretos/poltchageist-en-sinistcha" target="_blank">Sinistcha (Forma Exquisita)</a></b></center></td><td>Planta y Fantasma</td><td>Evoluciona de Poltchageist Forma Opulenta con un <a href="https://vandal.elespanol.com/guias/guia-pokemon-escarlata-y-purpura-trucos-consejos-y-secretos/objetos-de-evolucion#cuenco-exquisito" target="_blank">Cuenco Exquisito</a>
+<br/>Teraincursiones de 5 y 6 estrellas</td></tr></p><!--interparrafo50-->
+
+<p><tr><td>074</td><td>080</td><td><center><div class="mt15 mb15" style="max-width:75px"><div class="relative" style="padding-bottom:92%"><img class="lazy_portada imgabsoluta" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEHAAEALAAAAAABAAEAAAICTAEAOw==" data-src="https://media.vandal.net/m/9-2023/12/202391216115942_8.jpg" data-m1="9-2023/12" data-m2="202391216115942_8" data-m3="202391216115942" data-m4="8"  alt="Geodude en Pokédex Noroteo" /></div></div>
+<br/><b>Geodude</b></center></td><td>Roca y Tierra</td><td>Aparece en: Colina Manzanar, Arroyo Helado, Paso del Averno, Carretera de Noroteo, Campos Prístinos de Noroteo, Monte Ogro, Fauces del Ogro, Elíseo Baldío, Senda Jarana, Pradera Glicina
+<br/>Teraincursiones de 1 estrella</td></tr></p><!--interparrafo51-->
+
+<p><tr><td>075</td><td>081</td><td><center><div class="mt15 mb15" style="max-width:75px"><div class="relative" style="padding-bottom:92%"><img class="lazy_portada imgabsoluta" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEHAAEALAAAAAABAAEAAAICTAEAOw==" data-src="https://media.vandal.net/m/9-2023/12/202391216115942_9.jpg" data-m1="9-2023/12" data-m2="202391216115942_9" data-m3="202391216115942" data-m4="9"  alt="Graveler en Pokédex Noroteo" /></div></div>
+<br/><b>Graveler</b></center></td><td>Roca y Tierra</td><td>Aparece en: Arroyo Helado, Lago Cristalino, Desfiladero del Cuerno, Paso del Averno, Campos Prístinos de Noroteo, Monte Ogro, Soto Sempiterno, Elíseo Baldío
+<br/>Teraincursiones de 4 estrellas
+<br/>Evoluciona de Geodude al nivel 25</td></tr></p><!--interparrafo52-->
+
+<p><tr><td>076</td><td>082</td><td><center><div class="mt15 mb15" style="max-width:75px"><div class="relative" style="padding-bottom:92%"><img class="lazy_portada imgabsoluta" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEHAAEALAAAAAABAAEAAAICTAEAOw==" data-src="https://media.vandal.net/m/9-2023/12/202391216115942_10.jpg" data-m1="9-2023/12" data-m2="202391216115942_10" data-m3="202391216115942" data-m4="10"  alt="Golem en Pokédex Noroteo" /></div></div>
+<br/><b>Golem</b></center></td><td>Roca y Tierra</td><td>Teraincursiones de 5 y 6 estrellas
+<br/>Evoluciona de Graveler mediante intercambio</td></tr></p><!--interparrafo53-->
+
+<p><tr><td>532</td><td>085</td><td><center><div class="mt15 mb15" style="max-width:75px"><div class="relative" style="padding-bottom:92%"><img class="lazy_portada imgabsoluta" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEHAAEALAAAAAABAAEAAAICTAEAOw==" data-src="https://media.vandal.net/m/9-2023/12/202391216115942_11.jpg" data-m1="9-2023/12" data-m2="202391216115942_11" data-m3="202391216115942" data-m4="11"  alt="Timburr en Pokédex Noroteo" /></div></div>
+<br/><b>Timburr</b></center></td><td>Lucha</td><td>Aparece en: Colina Manzanar, Lago Cristalino, Desfiladero del Cuerno, Paso del Averno, Campos Prístinos de Noroteo, Ribera Confluencia, Monte Ogro, Fauces del Ogro, Elíseo Baldío, Senda Jarana, Pradera Glicina
+<br/>Teraincursiones de 2 estrellas</td></tr></p><!--interparrafo54-->
+
+<p><tr><td>533</td><td>086</td><td><center><div class="mt15 mb15" style="max-width:75px"><div class="relative" style="padding-bottom:92%"><img class="lazy_portada imgabsoluta" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEHAAEALAAAAAABAAEAAAICTAEAOw==" data-src="https://media.vandal.net/m/9-2023/12/202391216115942_12.jpg" data-m1="9-2023/12" data-m2="202391216115942_12" data-m3="202391216115942" data-m4="12"  alt="Gurdurr en Pokédex Noroteo" /></div></div>
+<br/><b>Gurdurr</b></center></td><td>Lucha</td><td>Aparece en: Desfiladero del Cuerno, Ribera Confluencia, Elíseo Baldío
+<br/>Teraincursiones de 3 estrellas
+<br/>Evoluciona de Timburr al nivel 25</td></tr></p><!--interparrafo55-->
+
+<p><tr><td>534</td><td>087</td><td><center><div class="mt15 mb15" style="max-width:75px"><div class="relative" style="padding-bottom:92%"><img class="lazy_portada imgabsoluta" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEHAAEALAAAAAABAAEAAAICTAEAOw==" data-src="https://media.vandal.net/m/9-2023/12/202391216115942_13.jpg" data-m1="9-2023/12" data-m2="202391216115942_13" data-m3="202391216115942" data-m4="13"  alt="Conkeldurr en Pokédex Noroteo" /></div></div>
+<br/><b>Conkeldurr</b></center></td><td>Lucha</td><td>Teraincursiones de 5 y 6 estrellas
+<br/>Evoluciona de Gurdurr mediante intercambio</td></tr></p><!--interparrafo56-->
+
+<p><tr><td>446</td><td>102</td><td><center><div class="mt15 mb15" style="max-width:75px"><div class="relative" style="padding-bottom:92%"><img class="lazy_portada imgabsoluta" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEHAAEALAAAAAABAAEAAAICTAEAOw==" data-src="https://media.vandal.net/m/9-2023/12/202391216115942_15.jpg" data-m1="9-2023/12" data-m2="202391216115942_15" data-m3="202391216115942" data-m4="15"  alt="Munchlax en Pokédex Noroteo" /></div></div>
+<br/><b>Munchlax</b></center></td><td>Normal</td><td>Aparece en: Colina Manzanar, Carretera de Noroteo, Campos Prístinos de Noroteo, Monte Ogro, Elíseo Baldío, Soto Sempiterno, Pradera Glicina
+<br/>Regalo Munchlax shiny por completar el Juego del Cazaogros en Difícil
+<br/>Teraincursiones de 2 y 3 estrellas</td></tr></p><!--interparrafo57-->
+
+<p><tr><td>143</td><td>103</td><td><center><div class="mt15 mb15" style="max-width:75px"><div class="relative" style="padding-bottom:92%"><img class="lazy_portada imgabsoluta" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEHAAEALAAAAAABAAEAAAICTAEAOw==" data-src="https://media.vandal.net/m/9-2023/12/202391216115942_16.jpg" data-m1="9-2023/12" data-m2="202391216115942_16" data-m3="202391216115942" data-m4="16"  alt="Snorlax en Pokédex Noroteo" /></div></div>
+<br/><b>Snorlax</b></center></td><td>Normal</td><td>Aparece en: Soto Sempiterno
+<br/>Teraincursiones de 5 y 6 estrellas
+<br/>Evoluciona de Munchlax con amistad elevada</td></tr></p><!--interparrafo58-->
+
+<p><tr><td>270</td><td>104</td><td><center><div class="mt15 mb15" style="max-width:75px"><div class="relative" style="padding-bottom:92%"><img class="lazy_portada imgabsoluta" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEHAAEALAAAAAABAAEAAAICTAEAOw==" data-src="https://media.vandal.net/m/9-2023/12/202391216115942_17.jpg" data-m1="9-2023/12" data-m2="202391216115942_17" data-m3="202391216115942" data-m4="17"  alt="Lotad en Pokédex Noroteo" /></div></div>
+<br/><b>Lotad</b></center></td><td>Agua y Planta</td><td>Aparece en: Colina Manzanar, Paso del Averno, Campos Prístinos de Noroteo, Monte Ogro, Elíseo Baldío, Soto Sempiterno, Pradera Glicina, Senda Jarana
+<br/>Teraincursiones de 2 estrellas</td></tr></p><!--interparrafo59-->
+
+<p><tr><td>271</td><td>105</td><td><center><div class="mt15 mb15" style="max-width:75px"><div class="relative" style="padding-bottom:92%"><img class="lazy_portada imgabsoluta" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEHAAEALAAAAAABAAEAAAICTAEAOw==" data-src="https://media.vandal.net/m/9-2023/12/202391216115942_18.jpg" data-m1="9-2023/12" data-m2="202391216115942_18" data-m3="202391216115942" data-m4="18"  alt="Lombre en Pokédex Noroteo" /></div></div>
+<br/><b>Lombre</b></center></td><td>Agua y Planta</td><td>Aparece en: Colina Manzanar, Campos Prístinos de Noroteo, Monte Ogro, Elíseo Baldío, Soto Sempiterno, Pradera Glicina, Ribera Confluencia
+<br/>Teraincursiones de 3 estrellas
+<br/>Evoluciona de Lotad al nivel 14</td></tr></p><!--interparrafo60-->
+
+<p><tr><td>272</td><td>106</td><td><center><div class="mt15 mb15" style="max-width:75px"><div class="relative" style="padding-bottom:92%"><img class="lazy_portada imgabsoluta" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEHAAEALAAAAAABAAEAAAICTAEAOw==" data-src="https://media.vandal.net/m/9-2023/12/202391216115942_19.jpg" data-m1="9-2023/12" data-m2="202391216115942_19" data-m3="202391216115942" data-m4="19"  alt="Ludicolo en Pokédex Noroteo" /></div></div>
+<br/><b>Ludicolo</b></center></td><td>Agua y Planta</td><td>Teraincursiones de 5 y 6 estrellas
+<br/>Evoluciona de Lombre con Piedra Agua</td></tr></p><!--interparrafo61-->
+
+<p><tr><td>299</td><td>107</td><td><center><div class="mt15 mb15" style="max-width:75px"><div class="relative" style="padding-bottom:92%"><img class="lazy_portada imgabsoluta" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEHAAEALAAAAAABAAEAAAICTAEAOw==" data-src="https://media.vandal.net/m/9-2023/12/202391216433698_1.jpg" data-m1="9-2023/12" data-m2="202391216433698_1" data-m3="202391216433698" data-m4="1"  alt="Nosepass en Pokédex Noroteo" /></div></div>
+<br/><b>Nosepass</b></center></td><td>Roca</td><td>Aparece en: Campos Prístinos de Noroteo, Monte Ogro, Elíseo Baldío, Pradera Glicina, Fauces del Ogro
+<br/>Teraincursiones de 3 estrellas</td></tr></p><!--interparrafo62-->
+
+<p><tr><td>476</td><td>108</td><td><center><div class="mt15 mb15" style="max-width:75px"><div class="relative" style="padding-bottom:92%"><img class="lazy_portada imgabsoluta" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEHAAEALAAAAAABAAEAAAICTAEAOw==" data-src="https://media.vandal.net/m/9-2023/12/202391216433698_2.jpg" data-m1="9-2023/12" data-m2="202391216433698_2" data-m3="202391216433698" data-m4="2"  alt="Probopass en Pokédex Noroteo" /></div></div>
+<br/><b>Probopass</b></center></td><td>Roca y Acero</td><td>Teraincursiones de 5 estrellas
+<br/>Evoluciona de Nosepass con Piedra Trueno</td></tr></p><!--interparrafo63-->
+
+<p><tr><td>736</td><td>112</td><td><center><div class="mt15 mb15" style="max-width:75px"><div class="relative" style="padding-bottom:92%"><img class="lazy_portada imgabsoluta" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEHAAEALAAAAAABAAEAAAICTAEAOw==" data-src="https://media.vandal.net/m/9-2023/12/202391216433698_3.jpg" data-m1="9-2023/12" data-m2="202391216433698_3" data-m3="202391216433698" data-m4="3"  alt="Grubbin en Pokédex Noroteo" /></div></div>
+<br/><b>Grubbin</b></center></td><td>Bicho</td><td>Aparece en: Colina Manzanar, Desfiladero del Cuerno, Carretera de Noroteo, Campos Prístinos de Noroteo, Monte Ogro, Elíseo Baldío, Soto Sempiterno, Pradera Glicina
+<br/>Teraincursiones de 1 estrella</td></tr></p><!--interparrafo64-->
+
+<p><tr><td>737</td><td>113</td><td><center><div class="mt15 mb15" style="max-width:75px"><div class="relative" style="padding-bottom:92%"><img class="lazy_portada imgabsoluta" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEHAAEALAAAAAABAAEAAAICTAEAOw==" data-src="https://media.vandal.net/m/9-2023/12/202391216433698_4.jpg" data-m1="9-2023/12" data-m2="202391216433698_4" data-m3="202391216433698" data-m4="4"  alt="Charjabug en Pokédex Noroteo" /></div></div>
+<br/><b>Charjabug</b></center></td><td>Bicho y Eléctrico</td><td>Aparece en: Desfiladero del Cuerno, Campos Prístinos de Noroteo, Monte Ogro, Elíseo Baldío, Soto Sempiterno, Pradera Glicina
+<br/>Teraincursiones de 3 estrellas
+<br/>Evoluciona de Grubbin al nivel 20</td></tr></p><!--interparrafo65-->
+
+<p><tr><td>738</td><td>114</td><td><center><div class="mt15 mb15" style="max-width:75px"><div class="relative" style="padding-bottom:92%"><img class="lazy_portada imgabsoluta" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEHAAEALAAAAAABAAEAAAICTAEAOw==" data-src="https://media.vandal.net/m/9-2023/12/202391216433698_5.jpg" data-m1="9-2023/12" data-m2="202391216433698_5" data-m3="202391216433698" data-m4="5"  alt="Vikavolt en Pokédex Noroteo" /></div></div>
+<br/><b>Vikavolt</b></center></td><td>Bicho y Eléctrico</td><td>Aparece en: Monte Ogro, Campos Prístinos de Noroteo
+<br/>Teraincursiones de 5 estrellas
+<br/>Evoluciona de Charjabug con Piedra Trueno</td></tr></p><!--interparrafo66-->
+
+<p><tr><td>027</td><td>116</td><td><center><div class="mt15 mb15" style="max-width:75px"><div class="relative" style="padding-bottom:92%"><img class="lazy_portada imgabsoluta" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEHAAEALAAAAAABAAEAAAICTAEAOw==" data-src="https://media.vandal.net/m/9-2023/12/202391216433698_6.jpg" data-m1="9-2023/12" data-m2="202391216433698_6" data-m3="202391216433698" data-m4="6"  alt="Sandshrew en Pokédex Noroteo" /></div></div>
+<br/><b>Sandshrew</b></center></td><td>Tierra</td><td>Aparece en: Campos Prístinos de Noroteo, Monte Ogro, Elíseo Baldío, Senda Jarana, Pradera Glicina
+<br/>Teraincursiones de 1 y 3 estrellas</td></tr></p><!--interparrafo67-->
+
+<p><tr><td>028</td><td>117</td><td><center><div class="mt15 mb15" style="max-width:75px"><div class="relative" style="padding-bottom:92%"><img class="lazy_portada imgabsoluta" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEHAAEALAAAAAABAAEAAAICTAEAOw==" data-src="https://media.vandal.net/m/9-2023/12/202391216433698_7.jpg" data-m1="9-2023/12" data-m2="202391216433698_7" data-m3="202391216433698" data-m4="7"  alt="Sandslash en Pokédex Noroteo" /></div></div>
+<br/><b>Sandslash</b></center></td><td>Tierra</td><td>Aparece en: Campos Prístinos de Noroteo, Monte Ogro, Elíseo Baldío, Carretera de Noroteo, Senda Jarana
+<br/>Evoluciona de Sandshrew al nivel 22</td></tr></p><!--interparrafo68-->
+
+<p><tr><td>629</td><td>127</td><td><center><div class="mt15 mb15" style="max-width:75px"><div class="relative" style="padding-bottom:92%"><img class="lazy_portada imgabsoluta" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEHAAEALAAAAAABAAEAAAICTAEAOw==" data-src="https://media.vandal.net/m/9-2023/12/202391216433698_10.jpg" data-m1="9-2023/12" data-m2="202391216433698_10" data-m3="202391216433698" data-m4="10"  alt="Vullaby en Pokédex Noroteo" /></div></div>
+<br/><b>Vullaby</b></center></td><td>Siniestro y Volador</td><td>Aparece en: Desfiladero del Cuerno, Campos Prístinos de Noroteo, Monte Ogro, Elíseo Baldío, Pradera Glicina, Paso del Averno
+<br/>Teraincursiones de 3 estrellas</td></tr></p><!--interparrafo69-->
+
+<p><tr><td>630</td><td>128</td><td><center><div class="mt15 mb15" style="max-width:75px"><div class="relative" style="padding-bottom:92%"><img class="lazy_portada imgabsoluta" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEHAAEALAAAAAABAAEAAAICTAEAOw==" data-src="https://media.vandal.net/m/9-2023/12/202391216433698_11.jpg" data-m1="9-2023/12" data-m2="202391216433698_11" data-m3="202391216433698" data-m4="11"  alt="Mandibuzz en Pokédex Noroteo" /></div></div>
+<br/><b>Mandibuzz</b></center></td><td>Siniestro y Volador</td><td>Teraincursiones de 5 y 6 estrellas
+<br/>Evoluciona de Vullaby al nivel 54</td></tr></p><!--interparrafo70-->
+
+<p><tr><td>782</td><td>131</td><td><center><div class="mt15 mb15" style="max-width:75px"><div class="relative" style="padding-bottom:92%"><img class="lazy_portada imgabsoluta" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEHAAEALAAAAAABAAEAAAICTAEAOw==" data-src="https://media.vandal.net/m/9-2023/12/202391216433698_12.jpg" data-m1="9-2023/12" data-m2="202391216433698_12" data-m3="202391216433698" data-m4="12"  alt="Jangmo-o en Pokédex Noroteo" /></div></div>
+<br/><b>Jangmo-o</b></center></td><td>Dragón</td><td>Aparece en: Campos Prístinos de Noroteo, Elíseo Baldío, Pradera Glicina
+<br/>Teraincursiones de 3 estrellas</td></tr></p><!--interparrafo71-->
+
+<p><tr><td>783</td><td>132</td><td><center><div class="mt15 mb15" style="max-width:75px"><div class="relative" style="padding-bottom:92%"><img class="lazy_portada imgabsoluta" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEHAAEALAAAAAABAAEAAAICTAEAOw==" data-src="https://media.vandal.net/m/9-2023/12/202391216433698_13.jpg" data-m1="9-2023/12" data-m2="202391216433698_13" data-m3="202391216433698" data-m4="13"  alt="Hakamo-o en Pokédex Noroteo" /></div></div>
+<br/><b>Hakamo-o</b></center></td><td>Dragón y Lucha</td><td>Aparece en: Campos Prístinos de Noroteo, Ribera Confluencia, Monte Ogro
+<br/>Teraincursiones de 4 estrellas
+<br/>Evoluciona de Jangmo-o al nivel 35</td></tr></p><!--interparrafo72-->
+
+<p><tr><td>784</td><td>133</td><td><center><div class="mt15 mb15" style="max-width:75px"><div class="relative" style="padding-bottom:92%"><img class="lazy_portada imgabsoluta" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEHAAEALAAAAAABAAEAAAICTAEAOw==" data-src="https://media.vandal.net/m/9-2023/12/202391216433698_14.jpg" data-m1="9-2023/12" data-m2="202391216433698_14" data-m3="202391216433698" data-m4="14"  alt="Kommo-o en Pokédex Noroteo" /></div></div>
+<br/><b>Kommo-o</b></center></td><td>Dragón y Lucha</td><td>Teraincursiones de 5 y 6 estrellas
+<br/>Evoluciona de Hakamo-o al nivel 45</td></tr></p><!--interparrafo73-->
+
+<p><tr><td>109</td><td>135</td><td><center><div class="mt15 mb15" style="max-width:75px"><div class="relative" style="padding-bottom:92%"><img class="lazy_portada imgabsoluta" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEHAAEALAAAAAABAAEAAAICTAEAOw==" data-src="https://media.vandal.net/m/9-2023/12/202391216433698_15.jpg" data-m1="9-2023/12" data-m2="202391216433698_15" data-m3="202391216433698" data-m4="15"  alt="Koffing en Pokédex Noroteo" /></div></div>
+<br/><b>Koffing</b></center></td><td>Veneno</td><td>Aparece en: Lago Cristalino, Paso del Averno, Monte Ogro</td></tr></p><!--interparrafo74-->
+
+<p><tr><td>110</td><td>136</td><td><center><div class="mt15 mb15" style="max-width:75px"><div class="relative" style="padding-bottom:92%"><img class="lazy_portada imgabsoluta" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEHAAEALAAAAAABAAEAAAICTAEAOw==" data-src="https://media.vandal.net/m/9-2023/12/202391216433698_16.jpg" data-m1="9-2023/12" data-m2="202391216433698_16" data-m3="202391216433698" data-m4="16"  alt="Weezing en Pokédex Noroteo" /></div></div>
+<br/><b>Weezing</b></center></td><td>Veneno</td><td>Evoluciona de Koffing al nivel 35</td></tr></p><!--interparrafo75-->
+
+<p><tr><td>619</td><td>137</td><td><center><div class="mt15 mb15" style="max-width:75px"><div class="relative" style="padding-bottom:92%"><img class="lazy_portada imgabsoluta" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEHAAEALAAAAAABAAEAAAICTAEAOw==" data-src="https://media.vandal.net/m/9-2023/12/20239121646110_1.jpg" data-m1="9-2023/12" data-m2="20239121646110_1" data-m3="20239121646110" data-m4="1"  alt="Mienfoo en Pokédex Noroteo" /></div></div>
+<br/><b>Mienfoo</b></center></td><td>Lucha</td><td>Aparece en: Colina Manzanar, Arroyo Helado, Carretera de Noroteo, Monte Ogro, Elíseo Baldío, Pradera Glicina
+<br/>Teraincursiones de 3 estrellas</td></tr></p><!--interparrafo76-->
+
+<p><tr><td>620</td><td>138</td><td><center><div class="mt15 mb15" style="max-width:75px"><div class="relative" style="padding-bottom:92%"><img class="lazy_portada imgabsoluta" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEHAAEALAAAAAABAAEAAAICTAEAOw==" data-src="https://media.vandal.net/m/9-2023/12/20239121646110_2.jpg" data-m1="9-2023/12" data-m2="20239121646110_2" data-m3="20239121646110" data-m4="2"  alt="Mienshao en Pokédex Noroteo" /></div></div>
+<br/><b>Mienshao</b></center></td><td>Lucha</td><td>Teraincursiones de 5 y 6 estrellas
+<br/>Evoluciona de Mienfoo al nivel 50</td></tr></p><!--interparrafo77-->
+
+<p><tr><td>355</td><td>139</td><td><center><div class="mt15 mb15" style="max-width:75px"><div class="relative" style="padding-bottom:92%"><img class="lazy_portada imgabsoluta" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEHAAEALAAAAAABAAEAAAICTAEAOw==" data-src="https://media.vandal.net/m/9-2023/12/20239121646110_3.jpg" data-m1="9-2023/12" data-m2="20239121646110_3" data-m3="20239121646110" data-m4="3"  alt="Duskull en Pokédex Noroteo" /></div></div>
+<br/><b>Duskull</b></center></td><td>Fantasma</td><td>Aparece en: Arroyo Helado, Lago Cristalino, Desfiladero del Cuerno, Paso del Averno, Campos Prístinos de Noroteo, Monte Ogro, Soto Sempiterno
+<br/>Teraincursiones de 2 estrellas</td></tr></p><!--interparrafo78-->
+
+<p><tr><td>356</td><td>140</td><td><center><div class="mt15 mb15" style="max-width:75px"><div class="relative" style="padding-bottom:92%"><img class="lazy_portada imgabsoluta" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEHAAEALAAAAAABAAEAAAICTAEAOw==" data-src="https://media.vandal.net/m/9-2023/12/20239121646110_4.jpg" data-m1="9-2023/12" data-m2="20239121646110_4" data-m3="20239121646110" data-m4="4"  alt="Dusclops en Pokédex Noroteo" /></div></div>
+<br/><b>Dusclops</b></center></td><td>Fantasma</td><td>Aparece en: Campos Prístinos de Noroteo, Soto Sempiterno, Senda Jarana
+<br/>Teraincursiones de 4 estrellas
+<br/>Evoluciona de Duskull al nivel 37</td></tr></p><!--interparrafo79-->
+
+<p><tr><td>477</td><td>141</td><td><center><div class="mt15 mb15" style="max-width:75px"><div class="relative" style="padding-bottom:92%"><img class="lazy_portada imgabsoluta" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEHAAEALAAAAAABAAEAAAICTAEAOw==" data-src="https://media.vandal.net/m/9-2023/12/20239121646110_5.jpg" data-m1="9-2023/12" data-m2="20239121646110_5" data-m3="20239121646110" data-m4="5"  alt="Dusknoir en Pokédex Noroteo" /></div></div>
+<br/><b>Dusknoir</b></center></td><td>Fantasma</td><td>Teraincursiones de 5 y 6 estrellas
+<br/>Evoluciona de Dusclops mediante intercambio con <a href="https://vandal.elespanol.com/guias/guia-pokemon-escarlata-y-purpura-trucos-consejos-y-secretos/objetos-de-evolucion#tela-terrible" target="_blank">Tela Terrible</a> equipada</td></tr></p><!--interparrafo80-->
+
+<p><tr><td>433</td><td>142</td><td><center><div class="mt15 mb15" style="max-width:75px"><div class="relative" style="padding-bottom:92%"><img class="lazy_portada imgabsoluta" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEHAAEALAAAAAABAAEAAAICTAEAOw==" data-src="https://media.vandal.net/m/9-2023/12/20239121646110_6.jpg" data-m1="9-2023/12" data-m2="20239121646110_6" data-m3="20239121646110" data-m4="6"  alt="Chingling en Pokédex Noroteo" /></div></div>
+<br/><b>Chingling</b></center></td><td>Psíquico</td><td>Aparece en: Arroyo Helado, Lago Cristalino, Paso del Averno, Monte Ogro
+<br/>Teraincursiones de 1 y 3 estrellas/td></tr></p><!--interparrafo81-->
+
+<p><tr><td>358</td><td>143</td><td><center><div class="mt15 mb15" style="max-width:75px"><div class="relative" style="padding-bottom:92%"><img class="lazy_portada imgabsoluta" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEHAAEALAAAAAABAAEAAAICTAEAOw==" data-src="https://media.vandal.net/m/9-2023/12/20239121646110_7.jpg" data-m1="9-2023/12" data-m2="20239121646110_7" data-m3="20239121646110" data-m4="7"  alt="Chimecho en Pokédex Noroteo" /></div></div>
+<br/><b>Chimecho</b></center></td><td>Psíquico</td><td>Aparece en: Lago Cristalino, Paso del Averno, Monte Ogro, Carretera de Noroteo
+<br/>Teraincursiones de 4 estrellas
+<br/>Evoluciona de Chingling con amistad elevada</td></tr></p><!--interparrafo82-->
+
+<p><tr><td>218</td><td>144</td><td><center><div class="mt15 mb15" style="max-width:75px"><div class="relative" style="padding-bottom:92%"><img class="lazy_portada imgabsoluta" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEHAAEALAAAAAABAAEAAAICTAEAOw==" data-src="https://media.vandal.net/m/9-2023/12/20239121646110_8.jpg" data-m1="9-2023/12" data-m2="20239121646110_8" data-m3="20239121646110" data-m4="8"  alt="Slugma en Pokédex Noroteo" /></div></div>
+<br/><b>Slugma</b></center></td><td>Fuego</td><td>Aparece en: Lago Cristalino, Paso del Averno, Monte Ogro, Carretera de Noroteo
+<br/>Teraincursiones de 2 estrellas</td></tr></p><!--interparrafo83-->
+
+<p><tr><td>219</td><td>145</td><td><center><div class="mt15 mb15" style="max-width:75px"><div class="relative" style="padding-bottom:92%"><img class="lazy_portada imgabsoluta" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEHAAEALAAAAAABAAEAAAICTAEAOw==" data-src="https://media.vandal.net/m/9-2023/12/20239121646110_9.jpg" data-m1="9-2023/12" data-m2="20239121646110_9" data-m3="20239121646110" data-m4="9"  alt="Magcargo en Pokédex Noroteo" /></div></div>
+<br/><b>Magcargo</b></center></td><td>Fuego y Roca</td><td>Teraincursiones de 4 estrellas
+<br/>Evoluciona de Slugma al nivel 38</td></tr></p><!--interparrafo84-->
+
+<p><tr><td>607</td><td>146</td><td><center><div class="mt15 mb15" style="max-width:75px"><div class="relative" style="padding-bottom:92%"><img class="lazy_portada imgabsoluta" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEHAAEALAAAAAABAAEAAAICTAEAOw==" data-src="https://media.vandal.net/m/9-2023/12/20239121646110_10.jpg" data-m1="9-2023/12" data-m2="20239121646110_10" data-m3="20239121646110" data-m4="10"  alt="Litwick en Pokédex Noroteo" /></div></div>
+<br/><b>Litwick</b></center></td><td>Fantasma y Fuego</td><td>Aparece en: Lago Cristalino, Paso del Averno, Campos Prístinos de Noroteo, Monte Ogro, Soto Sempiterno
+<br/>Teraincursiones de 2 estrellas</td></tr></p><!--interparrafo85-->
+
+<p><tr><td>608</td><td>147</td><td><center><div class="mt15 mb15" style="max-width:75px"><div class="relative" style="padding-bottom:92%"><img class="lazy_portada imgabsoluta" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEHAAEALAAAAAABAAEAAAICTAEAOw==" data-src="https://media.vandal.net/m/9-2023/12/20239121646110_11.jpg" data-m1="9-2023/12" data-m2="20239121646110_11" data-m3="20239121646110" data-m4="11"  alt="Lampent en Pokédex Noroteo" /></div></div>
+<br/><b>Lampent</b></center></td><td>Fantasma y Fuego</td><td>Aparece en: Soto Sempiterno, Monte Ogro, Paso del Averno
+<br/>Teraincursiones de 4 estrellas
+<br/>Evoluciona de Litwick al nivel 41</td></tr></p><!--interparrafo86-->
+
+<p><tr><td>609</td><td>148</td><td><center><div class="mt15 mb15" style="max-width:75px"><div class="relative" style="padding-bottom:92%"><img class="lazy_portada imgabsoluta" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEHAAEALAAAAAABAAEAAAICTAEAOw==" data-src="https://media.vandal.net/m/9-2023/12/20239121646110_12.jpg" data-m1="9-2023/12" data-m2="20239121646110_12" data-m3="20239121646110" data-m4="12"  alt="Chandelure en Pokédex Noroteo" /></div></div>
+<br/><b>Chandelure</b></center></td><td>Fantasma y Fuego</td><td>Teraincursiones de 5 y 6 estrellas
+<br/>Evoluciona de Lampent con Piedra Noche</td></tr></p><!--interparrafo87-->
+
+<p><tr><td>173</td><td>151</td><td><center><div class="mt15 mb15" style="max-width:75px"><div class="relative" style="padding-bottom:92%"><img class="lazy_portada imgabsoluta" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEHAAEALAAAAAABAAEAAAICTAEAOw==" data-src="https://media.vandal.net/m/9-2023/12/20239121646110_13.jpg" data-m1="9-2023/12" data-m2="20239121646110_13" data-m3="20239121646110" data-m4="13"  alt="Cleffa en Pokédex Noroteo" /></div></div>
+<br/><b>Cleffa</b></center></td><td>Hada</td><td>Aparece en: Lago Cristalino, Paso del Averno, Centro Cultural de Noroteo, Monte Ogro, Senda Jarana
+<br/>Teraincursiones de 1 estrella</td></tr></p><!--interparrafo88-->
+
+<p><tr><td>035</td><td>152</td><td><center><div class="mt15 mb15" style="max-width:75px"><div class="relative" style="padding-bottom:92%"><img class="lazy_portada imgabsoluta" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEHAAEALAAAAAABAAEAAAICTAEAOw==" data-src="https://media.vandal.net/m/9-2023/12/20239121646110_14.jpg" data-m1="9-2023/12" data-m2="20239121646110_14" data-m3="20239121646110" data-m4="14"  alt="Clefairy en Pokédex Noroteo" /></div></div>
+<br/><b>Clefairy</b></center></td><td>Hada</td><td>Aparece en: Lago Cristalino, Paso del Averno, Centro Cultural de Noroteo, Monte Ogro, Senda Jarana
+<br/>Teraincursiones de 3 estrellas
+<br/>Evoluciona de Cleffa con amistad elevada</td></tr></p><!--interparrafo89-->
+
+<p><tr><td>036</td><td>153</td><td><center><div class="mt15 mb15" style="max-width:75px"><div class="relative" style="padding-bottom:92%"><img class="lazy_portada imgabsoluta" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEHAAEALAAAAAABAAEAAAICTAEAOw==" data-src="https://media.vandal.net/m/9-2023/12/20239121646110_15.jpg" data-m1="9-2023/12" data-m2="20239121646110_15" data-m3="20239121646110" data-m4="15"  alt="Clefable en Pokédex Noroteo" /></div></div>
+<br/><b>Clefable</b></center></td><td>Hada</td><td>Teraincursiones de 4 y 6 estrellas
+<br/>Evoluciona de Clefairy con Piedra Lunar</td></tr></p><!--interparrafo90-->
+
+<p><tr><td>349</td><td>158</td><td><center><div class="mt15 mb15" style="max-width:75px"><div class="relative" style="padding-bottom:92%"><img class="lazy_portada imgabsoluta" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEHAAEALAAAAAABAAEAAAICTAEAOw==" data-src="https://media.vandal.net/m/9-2023/12/202391216502722_1.jpg" data-m1="9-2023/12" data-m2="202391216502722_1" data-m3="202391216502722" data-m4="1"  alt="Feebas en Pokédex Noroteo" /></div></div>
+<br/><b>Feebas</b></center></td><td>Agua</td><td>Aparece en: Lago Cristalino, Monte Ogro
+<br/>Teraincursiones de 2 y 3 estrellas</td></tr></p><!--interparrafo91-->
+
+<p><tr><td>350</td><td>159</td><td><center><div class="mt15 mb15" style="max-width:75px"><div class="relative" style="padding-bottom:92%"><img class="lazy_portada imgabsoluta" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEHAAEALAAAAAABAAEAAAICTAEAOw==" data-src="https://media.vandal.net/m/9-2023/12/202391216502722_2.jpg" data-m1="9-2023/12" data-m2="202391216502722_2" data-m3="202391216502722" data-m4="2"  alt="Milotic en Pokédex Noroteo" /></div></div>
+<br/><b>Milotic</b></center></td><td>Agua</td><td>Teraincursiones de 5 y 6 estrellas
+<br/>Evoluciona de Feebas mediante intercambio con <a href="https://vandal.elespanol.com/guias/guia-pokemon-escarlata-y-purpura-trucos-consejos-y-secretos/objetos-de-evolucion#escama-bella" target="_blank">Escama Bella</a> equipada</td></tr></p><!--interparrafo92-->
+
+<p><tr><td>703</td><td>167</td><td><center><div class="mt15 mb15" style="max-width:75px"><div class="relative" style="padding-bottom:92%"><img class="lazy_portada imgabsoluta" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEHAAEALAAAAAABAAEAAAICTAEAOw==" data-src="https://media.vandal.net/m/9-2023/12/202391216502722_3.jpg" data-m1="9-2023/12" data-m2="202391216502722_3" data-m3="202391216502722" data-m4="3"  alt="Carbink en Pokédex Noroteo" /></div></div>
+<br/><b>Carbink</b></center></td><td>Roca y Hada</td><td>Aparece en: Lago Cristalino, Monte Ogro, Arroyo Helado
+<br/>Teraincursiones de 4 estrellas</td></tr></p><!--interparrafo93-->
+
+<p><tr><td>580</td><td>181</td><td><center><div class="mt15 mb15" style="max-width:75px"><div class="relative" style="padding-bottom:92%"><img class="lazy_portada imgabsoluta" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEHAAEALAAAAAABAAEAAAICTAEAOw==" data-src="https://media.vandal.net/m/9-2023/12/202391216502722_4.jpg" data-m1="9-2023/12" data-m2="202391216502722_4" data-m3="202391216502722" data-m4="4"  alt="Ducklett en Pokédex Noroteo" /></div></div>
+<br/><b>Ducklett</b></center></td><td>Agua y Volador</td><td>Aparece en: Desfiladero del Cuerno, Campos Prístinos de Noroteo, Ribera Confluencia, Monte Ogro
+<br/>Teraincursiones de 1 estrella</td></tr></p><!--interparrafo94-->
+
+<p><tr><td>581</td><td>182</td><td><center><div class="mt15 mb15" style="max-width:75px"><div class="relative" style="padding-bottom:92%"><img class="lazy_portada imgabsoluta" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEHAAEALAAAAAABAAEAAAICTAEAOw==" data-src="https://media.vandal.net/m/9-2023/12/202391216502722_5.jpg" data-m1="9-2023/12" data-m2="202391216502722_5" data-m3="202391216502722" data-m4="5"  alt="Swanna en Pokédex Noroteo" /></div></div>
+<br/><b>Swanna</b></center></td><td>Agua y Volador</td><td>Aparece en: Desfiladero del Cuerno, Campos Prístinos de Noroteo, Senda Jarana
+<br/>Teraincursiones de 4 estrellas
+<br/>Evoluciona de Ducklett al nivel 35</td></tr></p><!--interparrafo95-->
+
+<p><tr><td>550</td><td>194</td><td><center><div class="mt15 mb15" style="max-width:75px"><div class="relative" style="padding-bottom:93.33%"><img class="lazy_portada imgabsoluta" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEHAAEALAAAAAABAAEAAAICTAEAOw==" data-src="https://media.vandal.net/m/9-2023/12/202391216502722_7.jpg" data-m1="9-2023/12" data-m2="202391216502722_7" data-m3="202391216502722" data-m4="7"  alt="Basculin Forma Raya Blanca en Pokédex Noroteo" /></div></div>
+<br/><b>Basculin Forma Raya Blanca</b></center></td><td>Agua</td><td>Aparece en: Soto Sempiterno
+<br/>Teraincursiones de 3 estrellas</td></tr></p><!--interparrafo96-->
+
+<p><tr><td>902</td><td>195</td><td><center><div class="mt15 mb15" style="max-width:95px"><div class="relative" style="padding-bottom:91.57%"><img class="lazy_portada imgabsoluta" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEHAAEALAAAAAABAAEAAAICTAEAOw==" data-src="https://media.vandal.net/m/9-2023/12/202391216502722_8.jpg" data-m1="9-2023/12" data-m2="202391216502722_8" data-m3="202391216502722" data-m4="8"  alt="Basculegion macho y hembra en Pokédex Noroteo" /></div></div>
+<br/><b>Basculegion macho y hembra</b></center></td><td>Agua y Fantasma</td><td>Teraincursiones de 5 y 6 estrellas
+<br/>Evoluciona de Basculin Raya Blanca (si es macho o hembra) tras recibir 294 PS de daño de retroceso de sus ataques</td></tr></p><!--interparrafo97-->
+
+<p><tr><td>901</td><td>196</td><td><center><div class="mt15 mb15" style="max-width:75px"><div class="relative" style="padding-bottom:100%"><img class="lazy_portada imgabsoluta" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEHAAEALAAAAAABAAEAAAICTAEAOw==" data-src="https://media.vandal.net/m/9-2023/12/202391216502722_9.jpg" data-m1="9-2023/12" data-m2="202391216502722_9" data-m3="202391216502722" data-m4="9"  alt="Ursaluna Luna Carmesí en Pokédex Noroteo" /></div></div>
+<br/><b>Ursaluna Luna Carmesí</b></center></td><td>Tierra y Normal</td><td>Aparece en: Soto Sempiterno (captura 150 Pokémon de la Pokédex de Noroteo y <a href="https://vandal.elespanol.com/guias/guia-pokemon-escarlata-y-purpura-trucos-consejos-y-secretos/ursaluna-luna-carmesi" target="_blank">completa la misión de Gama, la fotógrafa de Villa Versui</a>)</td></tr></p><!--interparrafo98-->
+
+<p><tr><td>1014</td><td>197</td><td><center><div class="mt15 mb15" style="max-width:75px"><div class="relative" style="padding-bottom:97.33%"><img class="lazy_portada imgabsoluta" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEHAAEALAAAAAABAAEAAAICTAEAOw==" data-src="https://media.vandal.net/m/9-2023/12/202391216382051_1.jpg" data-m1="9-2023/12" data-m2="202391216382051_1" data-m3="202391216382051" data-m4="1"  alt="Okidogi en Pokédex Noroteo" /></div></div>
+<br/><b><a href="https://vandal.elespanol.com/guias/guia-pokemon-escarlata-y-purpura-trucos-consejos-y-secretos/pokemon-compatrones#como-conseguir-a-okidogi-localizacion" target="_blank">Okidogi</a></b></center></td><td>Veneno y Lucha</td><td>Aparece en: Elíseo Baldío (después de completar la historia del DLC)</td></tr></p><!--interparrafo99-->
+
+<p><tr><td>1015</td><td>198</td><td><center><div class="mt15 mb15" style="max-width:75px"><div class="relative" style="padding-bottom:97.33%"><img class="lazy_portada imgabsoluta" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEHAAEALAAAAAABAAEAAAICTAEAOw==" data-src="https://media.vandal.net/m/9-2023/12/202391216382051_2.jpg" data-m1="9-2023/12" data-m2="202391216382051_2" data-m3="202391216382051" data-m4="2"  alt="Munkidori en Pokédex Noroteo" /></div></div>
+<br/><b><a href="https://vandal.elespanol.com/guias/guia-pokemon-escarlata-y-purpura-trucos-consejos-y-secretos/pokemon-compatrones#como-conseguir-a-munkidori-localizacion" target="_blank">Munkidori</a></b></center></td><td>Veneno y Psíquico</td><td>Aparece en: Laguna Glicina (después de completar la historia del DLC)</td></tr></p><!--interparrafo100-->
+
+<p><tr><td>1016</td><td>199</td><td><center><div class="mt15 mb15" style="max-width:75px"><div class="relative" style="padding-bottom:97.33%"><img class="lazy_portada imgabsoluta" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEHAAEALAAAAAABAAEAAAICTAEAOw==" data-src="https://media.vandal.net/m/9-2023/12/202391216382051_3.jpg" data-m1="9-2023/12" data-m2="202391216382051_3" data-m3="202391216382051" data-m4="3"  alt="Fezandipiti en Pokédex Noroteo" /></div></div>
+<br/><b><a href="https://vandal.elespanol.com/guias/guia-pokemon-escarlata-y-purpura-trucos-consejos-y-secretos/pokemon-compatrones#como-conseguir-a-fezandipiti-localizacion" target="_blank">Fezandipiti</a></b></center></td><td>Veneno y Hada</td><td>Aparece en: Desfiladero del Cuerno (después de completar la historia del DLC)</td></tr></p><!--interparrafo101-->
+
+<p><tr><td>1017</td><td>200</td><td><center><div class="mt15 mb15" style="max-width:75px"><div class="relative" style="padding-bottom:100%"><img class="lazy_portada imgabsoluta" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEHAAEALAAAAAABAAEAAAICTAEAOw==" data-src="https://media.vandal.net/m/9-2023/14/20239149334519_1.jpg" data-m1="9-2023/14" data-m2="20239149334519_1" data-m3="20239149334519" data-m4="1"  alt="Ogerpon (Máscara turquesa) en Pokédex Noroteo" /></div></div>
+<br/><b>Ogerpon (Máscara turquesa)</b></center></td><td>Planta</td><td>Se obtiene como parte de la historia del DLC (con sus cuatro máscaras)</td></tr></p><!--interparrafo102-->
+
+<p><tr><td>1017</td><td>200</td><td><center><div class="mt15 mb15" style="max-width:75px"><div class="relative" style="padding-bottom:100%"><img class="lazy_portada imgabsoluta" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEHAAEALAAAAAABAAEAAAICTAEAOw==" data-src="https://media.vandal.net/m/9-2023/14/20239149334519_2.jpg" data-m1="9-2023/14" data-m2="20239149334519_2" data-m3="20239149334519" data-m4="2"  alt="Ogerpon (Máscara fuente) en Pokédex Noroteo" /></div></div>
+<br/><b>Ogerpon (Máscara fuente)</b></center></td><td>Planta y Agua</td><td>Utiliza la máscara fuente para activar esta forma</td></tr></p><!--interparrafo103-->
+
+<p><tr><td>1017</td><td>200</td><td><center><div class="mt15 mb15" style="max-width:75px"><div class="relative" style="padding-bottom:100%"><img class="lazy_portada imgabsoluta" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEHAAEALAAAAAABAAEAAAICTAEAOw==" data-src="https://media.vandal.net/m/9-2023/14/20239149334519_3.jpg" data-m1="9-2023/14" data-m2="20239149334519_3" data-m3="20239149334519" data-m4="3"  alt="Ogerpon (Máscara horno) en Pokédex Noroteo" /></div></div>
+<br/><b>Ogerpon (Máscara horno)</b></center></td><td>Planta y Fuego</td><td>Utiliza la máscara horno para activar esta forma</td></tr></p><!--interparrafo104-->
+
+<p><tr><td>1017</td><td>200</td><td><center><div class="mt15 mb15" style="max-width:75px"><div class="relative" style="padding-bottom:100%"><img class="lazy_portada imgabsoluta" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEHAAEALAAAAAABAAEAAAICTAEAOw==" data-src="https://media.vandal.net/m/9-2023/14/20239149334519_4.jpg" data-m1="9-2023/14" data-m2="20239149334519_4" data-m3="20239149334519" data-m4="4"  alt="Ogerpon (Máscara cimiento) en Pokédex Noroteo" /></div></div>
+<br/><b>Ogerpon (Máscara cimiento)</b></center></td><td>Planta y Roca</td><td>Utiliza la máscara cimiento para activar esta forma</td></tr></p><!--interparrafo105-->
+
+<p><tr><td>207</td><td>121</td><td><center><div class="mt15 mb15" style="max-width:75px"><div class="relative" style="padding-bottom:92%"><img class="lazy_portada imgabsoluta" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEHAAEALAAAAAABAAEAAAICTAEAOw==" data-src="https://media.vandal.net/m/9-2023/12/202391216433698_8.jpg" data-m1="9-2023/12" data-m2="202391216433698_8" data-m3="202391216433698" data-m4="8"  alt="Gligar en Pokédex Noroteo" /></div></div>
+<br/><b>Gligar</b></center></td><td>Tierra y Volador</td><td>(Escarlata) Aparece en: Desfiladero del Cuerno, Campos Prístinos de Noroteo, Monte Ogro, Elíseo Baldío, Soto Sempiterno, Pradera Glicina
+<br/>Teraincursiones de 3 estrellas</td></tr></p><!--interparrafo109-->
+
+<p><tr><td>472</td><td>122</td><td><center><div class="mt15 mb15" style="max-width:75px"><div class="relative" style="padding-bottom:92%"><img class="lazy_portada imgabsoluta" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEHAAEALAAAAAABAAEAAAICTAEAOw==" data-src="https://media.vandal.net/m/9-2023/12/202391216433698_9.jpg" data-m1="9-2023/12" data-m2="202391216433698_9" data-m3="202391216433698" data-m4="9"  alt="Gliscor en Pokédex Noroteo" /></div></div>
+<br/><b>Gliscor</b></center></td><td>Tierra y Volador</td><td>(Escarlata) Teraincursiones de 5 y 6 estrellas
+<br/>Evoluciona de Gligar al subir de nivel con un <a href="https://vandal.elespanol.com/guias/guia-pokemon-escarlata-y-purpura-trucos-consejos-y-secretos/objetos-de-evolucion#colmillo-agudo" target="_blank">Colmillo Agudo</a> equipado (solo de noche)</td></tr></p><!--interparrafo110-->
+
+<p><tr><td>845</td><td>185</td><td><center><div class="mt15 mb15" style="max-width:75px"><div class="relative" style="padding-bottom:92%"><img class="lazy_portada imgabsoluta" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEHAAEALAAAAAABAAEAAAICTAEAOw==" data-src="https://media.vandal.net/m/9-2023/12/202391216502722_6.jpg" data-m1="9-2023/12" data-m2="202391216502722_6" data-m3="202391216502722" data-m4="6"  alt="Cramorant en Pokédex Noroteo" /></div></div>
+<br/><b>Cramorant</b></center></td><td>Volador y Agua</td><td>(Escarlata) Aparece en: Desfiladero del Cuerno, Campos Prístinos de Noroteo, Monte Ogro, Elíseo Baldío, Soto Sempiterno
+<br/>Teraincursiones de 4 estrellas</td></tr></p><!--interparrafo111-->
+
+<p><tr><td>190</td><td>047</td><td><center><div class="mt15 mb15" style="max-width:75px"><div class="relative" style="padding-bottom:92%"><img class="lazy_portada imgabsoluta" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEHAAEALAAAAAABAAEAAAICTAEAOw==" data-src="https://media.vandal.net/m/9-2023/12/20239121662225_15.jpg" data-m1="9-2023/12" data-m2="20239121662225_15" data-m3="20239121662225" data-m4="15"  alt="Aipom en Pokédex Noroteo" /></div></div>
+<br/><b>Aipom</b></center></td><td>Normal</td><td>(Púrpura) Aparece en: Desfiladero del Cuerno, Centro Cultural de Noroteo, Campos Prístinos de Noroteo, Ribera Confluencia, Elíseo Baldío, Senda Jarana, Soto Sempiterno, Pradera Glicina
+<br/>Teraincursiones de 3 estrellas</td></tr></p><!--interparrafo113-->
+
+<p><tr><td>424</td><td>048</td><td><center><div class="mt15 mb15" style="max-width:75px"><div class="relative" style="padding-bottom:92%"><img class="lazy_portada imgabsoluta" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEHAAEALAAAAAABAAEAAAICTAEAOw==" data-src="https://media.vandal.net/m/9-2023/12/20239121662225_16.jpg" data-m1="9-2023/12" data-m2="20239121662225_16" data-m3="20239121662225" data-m4="16"  alt="Ambipom en Pokédex Noroteo" /></div></div>
+<br/><b>Ambipom</b></center></td><td>Normal</td><td>(Púrpura) Teraincursiones de 5 y 6 estrellas
+<br/>Evoluciona de Aipom al subir de nivel mientras conoce el movimiento Doble Golpe</td></tr></p><!--interparrafo114-->
+
+<p><tr><td>877</td><td>095</td><td><center><div class="mt15 mb15" style="max-width:75px"><div class="relative" style="padding-bottom:92%"><img class="lazy_portada imgabsoluta" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEHAAEALAAAAAABAAEAAAICTAEAOw==" data-src="https://media.vandal.net/m/9-2023/12/202391216115942_14.jpg" data-m1="9-2023/12" data-m2="202391216115942_14" data-m3="202391216115942" data-m4="14"  alt="Morpeko en Pokédex Noroteo" /></div></div>
+<br/><b>Morpeko</b></center></td><td>Eléctrico y Siniestro</td><td>(Púrpura) Aparece en: Colina Manzanar, Monte Ogro, Fauces del Ogro, Elíseo Baldío, Senda Jarana, Pradera Glicina
+<br/>Teraincursiones de 4 y 6 estrellas</td></tr></p><!--interparrafo115-->
